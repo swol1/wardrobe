@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MMWEATHER>
+  <REPORT type="frc3">
+    <TOWN index="37" sname="%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" latitude="56" longitude="38">
+      <FORECAST day="06" month="11" year="2018" hour="21" tod="3" predict="0" weekday="3">
+        <PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+        <PRESSURE max="772" min="771"/>
+        <TEMPERATURE max="2" min="1"/>
+        <WIND min="0" max="0" direction="6"/>
+        <RELWET max="95" min="85"/>
+        <HEAT min="-0" max="-0"/>
+      </FORECAST>
+    </TOWN>
+  </REPORT>
+</MMWEATHER>
