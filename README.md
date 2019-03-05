@@ -17,5 +17,8 @@ ruby main.rb
 
 Программа загружает данные об одежде из файлов в папке `data`
 
+## Автор
+
+[Denis Gavrilin](https://github.com/swol1)
 
 
